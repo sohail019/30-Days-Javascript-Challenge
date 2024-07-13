@@ -3,7 +3,7 @@ Join me in a 30-day JavaScript coding challenge! We'll advance from basics like 
 
 ## Table of Contents
 
-- [Day 1 : Variables and Data Types]()
+- [Day 1 : Variables and Data Types](https://github.com/sohail019/30-Days-Javascript-Challenge/tree/main/01%20-%20Day%201%20%3A%20Variables%20and%20Data%20Types)
 
 ## Introduction
 
