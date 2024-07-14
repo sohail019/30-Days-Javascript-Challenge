@@ -72,7 +72,7 @@ console.log(num1 != num2) // true
 // Activity 4 : Ternary Operators
 
 // Task 14 : WAP that uses the ternary operator to check if a number is positive or negative and log the result to the console
-console.log('-------------Activity 3: Ternary Operators--------------------')
+console.log('-------------Activity 4: Ternary Operators--------------------')
 let num = 10
 check = num > 0 ? 'Positive' : 'Negative'
 console.log(`Number is ${num}, so It is ${check}`)
