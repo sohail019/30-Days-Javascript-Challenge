@@ -1,0 +1,28 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .hidden{
+    visibility: hidden;
+  }
+  
+  #mouse{
+    background-color: black;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  #myVeggies li{
+    cursor: pointer;
+  }
+  
+  .item{
+    cursor: pointer;
+    padding: 8px;
+    margin: 4px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+  }
